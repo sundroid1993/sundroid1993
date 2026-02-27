@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋 I'm Sunil Vishwakarma
 
-<!--
-**sundroid1993/sundroid1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Team Lead | Microservices Architect | AWS Certified Developer  
+📍 New Delhi, India  
 
-Here are some ideas to get you started:
+I design and build scalable, high-performance distributed systems across Insurance, Travel, Food Delivery, and IoT domains.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 What I Do
+
+- Design microservices-based architectures
+- Build scalable backend systems (Node.js, NestJS)
+- Develop enterprise frontend apps (Angular, React)
+- Implement event-driven systems (Kafka)
+- Optimize performance using Redis & caching strategies
+- Deploy cloud-native systems on AWS
+- Lead and mentor engineering teams
+
+---
+
+## 🏗 Tech Stack
+
+### Backend
+Node.js | NestJS | MySQL | Redis | Kafka | Microservices | REST APIs
+
+### Frontend
+Angular | React | Ionic
+
+### DevOps & Cloud
+AWS (S3, Lambda, EC2, API Gateway, ALB/NLB)  
+Docker | CI/CD | System Design
+
+### AI Integrations
+OpenAI | LangChain | LangGraph
+
+---
+
+## 📌 Architecture Philosophy
+
+- Clean architecture
+- Scalable systems
+- Event-driven design
+- Performance optimization
+- Security & governance
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: [<[your-link](https://www.linkedin.com/in/sunil-vishwakarma-6a947374/)>]
+- Email: <sundroid1993@gmail.com>
