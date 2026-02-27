@@ -47,5 +47,5 @@ OpenAI | LangChain | LangGraph
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [<[your-link](https://www.linkedin.com/in/sunil-vishwakarma-6a947374/)>]
+- LinkedIn: <https://www.linkedin.com/in/sunil-vishwakarma-6a947374/>
 - Email: <sundroid1993@gmail.com>
